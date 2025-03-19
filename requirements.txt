@@ -1,0 +1,12 @@
+openai
+opencv-python
+pillow
+torch
+torchvision
+transformers
+pandas
+python-docx
+fastapi
+uvicorn
+ultralytics
+tk
